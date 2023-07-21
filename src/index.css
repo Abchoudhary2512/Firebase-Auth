@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(91, 112, 112);
+  
 }
 
 code {
@@ -32,7 +34,7 @@ input {
 }
 
 button {
-  background-color: teal;
+  background-color: rgb(110, 68, 123);
   border: none;
   color: white;
   padding: 12px;
